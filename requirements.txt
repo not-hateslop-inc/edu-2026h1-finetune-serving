@@ -1,0 +1,7 @@
+transformers>=4.44,<5
+datasets>=2.20
+torch>=2.2
+fastapi>=0.110
+uvicorn>=0.29
+requests>=2.31
+pandas>=2.0
